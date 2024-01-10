@@ -8,6 +8,7 @@ https://woestyn101.github.io/myprofile/
 ![mysql](./assets/mysql.png)
 ![javascript](./assets/js.png)
 ![css](./assets/css.png)
+![html](./assets/html.png)
 
 ## Projects:
 
