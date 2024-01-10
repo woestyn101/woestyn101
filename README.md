@@ -3,7 +3,8 @@
 https://woestyn101.github.io/myprofile/
 
 Skills:
-![Website Screenshot](./assets/php.png)
+![php](./assets/php.png)
+![mysql](./assets/mysql.png)
 
 ## Projects:
 
