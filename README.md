@@ -9,6 +9,7 @@ https://woestyn101.github.io/myprofile/
 ![javascript](./assets/js.png)
 ![css](./assets/css.png)
 ![html](./assets/html.png)
+![bootstrap](./assets/bootstrap.png)
 
 ## Projects:
 
