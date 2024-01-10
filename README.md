@@ -2,7 +2,8 @@
 
 https://woestyn101.github.io/myprofile/
 
-Skills: ![Website Screenshot](./assets/php.png)
+Skills:
+![Website Screenshot](./assets/php.png)
 
 ## Projects:
 
