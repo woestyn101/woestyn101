@@ -2,7 +2,8 @@
 
 https://woestyn101.github.io/myprofile/
 
-Skills:
+## Skills:
+
 ![php](./assets/php.png)
 ![mysql](./assets/mysql.png)
 
