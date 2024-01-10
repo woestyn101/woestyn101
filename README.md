@@ -11,6 +11,7 @@ https://woestyn101.github.io/myprofile/
 ![html](./assets/html.png)
 ![bootstrap](./assets/bootstrap.png)
 ![python](./assets/python.png)
+![pandas](./assets/pandas.png)
 
 ## Projects:
 
