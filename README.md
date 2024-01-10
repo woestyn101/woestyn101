@@ -1,9 +1,9 @@
-### Profile: Marius Du Plooy
+# Profile: Marius Du Plooy
 
 https://woestyn101.github.io/myprofile/
 
 ## Projects:
-# Weather app:
+### Weather app:
 https://woestyn101.github.io/myweather_app/
 
 
